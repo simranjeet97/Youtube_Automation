@@ -1,6 +1,6 @@
 from datetime import datetime
 
-PATH_TO_STORE = "../Users/simranjeetsingh1497/Desktop/MLOPS_Project_1/Youtube_Automation/Download_Videos/"
+PATH_TO_STORE = "/Users/simranjeetsingh1497/Desktop/MLOPS_Project_1/Youtube_Automation/Download_Videos/"
 STORE_CSV = r'/Users/simranjeetsingh1497/Desktop/MLOPS_Project_1/Youtube_Automation/Files'
 PROJECT_PATH = r'/Users/simranjeetsingh1497/Desktop/MLOPS_Project_1/Youtube_Automation/'
 
@@ -14,7 +14,7 @@ NAME_CSV = "VideoLinks_"
 
 DATE = datetime.today().strftime('%Y%m%d')
 
-COUNT = 3
+COUNT = 1
 
 
 MESSAGE = """ 
